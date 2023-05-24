@@ -1,6 +1,11 @@
 # permadiptk.github.io
 Input Data And Login Admin
 
+Visit The Page Input Data
+```
+permadiptk.github.io
+```
+
 
 Name, Address, Email, Phone Number
 
